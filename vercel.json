@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "https://gemini.google.com/share/2c99b1fbc798",
+      "permanent": true
+    }
+  ]
+}
